@@ -164,8 +164,6 @@ router.mySite = function() {
 | --- | --- |
 | [bingwenwen05-lab](https://github.com/bingwenwen05-lab) | 项目维护者、开源发布 |
 | DeepSeek AI 助手 | v3.0 编解码增强模块开发、README 文档、开源发布协助 |
-| 原作者（GreasyFork 用户 7036） | 原版脚本（v2.0.2 及之前） |
-| [Dario Costa](https://greasyfork.org/) | 英语 / 意大利语翻译 |
 
 ---
 
